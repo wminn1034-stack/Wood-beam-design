@@ -37,8 +37,8 @@ These tools follow **AISC 360-16**, **AISC 341-16**, **ASCE 7-16**, and **CBC 20
 
 ```bash
 # Clone the repository
-git clone https://github.com/wminn1034-stack/Wood-beam-design.git
-cd Wood-beam-design
+git clone https://github.com/wminn1034/Wood-Beam-Design.git
+cd Wood-Beam-Design
 
 # Install dependencies
 pip install -r requirements.txt
